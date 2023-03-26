@@ -54,7 +54,7 @@
                     
                 </div>
                 <div class="col-lg-6">
-                    <img class="img-fluid" src="img/2.png" alt="">
+                   
                 </div>
             </div>
         </div>
